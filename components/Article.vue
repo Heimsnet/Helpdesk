@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-white shadow p-4 rounded-md">
+    <div class="bg-white shadow p-6 rounded-md">
         <div class="pb-2">
         <h2 class="text-black text-xl pb-2">{{title}}</h2>
         <p class="text-left text-gray-700">{{preview}}</p>
