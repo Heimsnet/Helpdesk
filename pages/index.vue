@@ -1,6 +1,7 @@
 <template>
-	<div>
+	<div class="font-sans">
 		<Header />
+		<Hero />
 	</div>
 </template>
 

@@ -6,8 +6,10 @@
                 <h1 class="text-white text-2xl">Heimsnet Help Centre</h1>
             </div>
             <div class="flex flex-grow"></div>
-            <div class="flex items-center">
-                <h2 class="text-white">cum</h2>
+            <div class="flex items-center gap-4">
+                <a href="https://www.heimsnet.eu/contact" class="text-white hover:underline">Support</a>
+                <a href="https://dash.heimsnet.eu/" class="text-white hover:underline">Dashboard</a>
+                <a href="https://www.heimsnet.eu/discord" class="text-white hover:underline">Discord</a>
             </div>
         </div>
     </div>
